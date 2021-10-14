@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WP_W04/static/css/main.5a143eea.chunk.css",
+    "main.js": "/WP_W04/static/js/main.c6dfa8e2.chunk.js",
+    "main.js.map": "/WP_W04/static/js/main.c6dfa8e2.chunk.js.map",
+    "runtime-main.js": "/WP_W04/static/js/runtime-main.ca3133e0.js",
+    "runtime-main.js.map": "/WP_W04/static/js/runtime-main.ca3133e0.js.map",
+    "static/js/2.c2e142f8.chunk.js": "/WP_W04/static/js/2.c2e142f8.chunk.js",
+    "static/js/2.c2e142f8.chunk.js.map": "/WP_W04/static/js/2.c2e142f8.chunk.js.map",
+    "static/js/3.82204c16.chunk.js": "/WP_W04/static/js/3.82204c16.chunk.js",
+    "static/js/3.82204c16.chunk.js.map": "/WP_W04/static/js/3.82204c16.chunk.js.map",
+    "index.html": "/WP_W04/index.html",
+    "static/css/main.5a143eea.chunk.css.map": "/WP_W04/static/css/main.5a143eea.chunk.css.map",
+    "static/js/2.c2e142f8.chunk.js.LICENSE.txt": "/WP_W04/static/js/2.c2e142f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca3133e0.js",
+    "static/js/2.c2e142f8.chunk.js",
+    "static/css/main.5a143eea.chunk.css",
+    "static/js/main.c6dfa8e2.chunk.js"
+  ]
+}
