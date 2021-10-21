@@ -9,6 +9,7 @@ const Shop_87 = () => {
 
   return (
     <div className="shop-page">
+      <h2>Shop Two Page</h2>
       {/* {menuItems.map((item) => {
         const { id, name } = item;
         return <Overview_87 key={id} title={name} />;
