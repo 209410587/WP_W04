@@ -1,9 +1,8 @@
 {
   "name": "react_crown_87",
-  "homepage": "https://209410587.github.io/WP_W04/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
-  
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
